@@ -1,13 +1,36 @@
-- 👋 Hi, I’m Ananya Pathak.
-- I am currently in my final year of BTech in Computer Science Engineering at IIIT Guwahati.
-- I am interested in Data Science
-- I'm learning Deep Learning.
+<h1 align="center">Hi 👋, I'm Ananya Pathak</h1>
+
+- I’m from Hyderabad, Telangana.
+- I am in my final year of BTech in Computer Science Engineering at IIIT Guwahati.
+- I am interested in Data Science.
+- I'm presently learning Deep Learning.
+- I am looking to collaborate on Data Analytics and AI/ML/DL related projects.
 - 📫 How to reach me: <a href="mailto:ananyasomu@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=25/>&nbsp;
     </a>
     <a href="https://www.linkedin.com/in/ananya-pathak-165765191/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height=25/>&nbsp;
     </a>
+    
+<div align="center">
+    <h4 align="center">My Portfolio - <a href="https://ana-pat.github.io/home/">Click Here!</a></h4>    
+</div>
+    
+    
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ana-pat&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/ana-pat&hide_border=true)
+    
+    <code>
+  <div align="center">
+    <h2>Statistics</h2>
+    <a href="https://github.com/ana-pat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ana-pat&show_icons=true&theme=react&line_height=27" alt="Ananya's Github Stats"/>
+    </a>
+    <a href="https://github.com/ana-pat">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-pat&theme=react&hide_langs_below=1&exclude_repo=CS306-Machine-Learning" />
+     </a>
+     <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=ana-pat&theme=react&hide_border=true" />
+</code>
+   
 <!---
 ana-pat/ana-pat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
