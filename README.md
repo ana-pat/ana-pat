@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ananya Pathak</h1>
 
 - I’m from Hyderabad, Telangana.
-- I am in my final year of BTech in Computer Science Engineering at IIIT Guwahati.
-- I am interested in Data Science.
-- I'm presently learning Deep Learning.
-- I am looking to collaborate on Data Analytics and AI/ML/DL related projects.
+- I am in my final semester of BTech in Computer Science Engineering at IIIT Guwahati.
+- I have recently worked with iOS development using Swift and Storyboard.
+- I am currently learning RUST and Flutter.
+- I am looking to collaborate on iOS, RUST and Flutter development projects.
 - 📫 How to reach me: <a href="mailto:ananyasomu@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=25/>&nbsp;
     </a>
