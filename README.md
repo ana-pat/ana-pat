@@ -2,7 +2,7 @@
 
 - I’m from Hyderabad, Telangana.
 - I am in my final semester of BTech in Computer Science Engineering at IIIT Guwahati.
-- I have recently worked with iOS development using Swift and Storyboard.
+- I have recently worked on iOS development using Swift and Storyboard.
 - I am currently learning RUST and Flutter.
 - I am looking to collaborate on iOS, RUST and Flutter development projects.
 - 📫 How to reach me: <a href="mailto:ananyasomu@gmail.com">
