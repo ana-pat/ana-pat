@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya Pathak</h1>
 
-- I’m from Hyderabad, Telangana.
 - I am in my final semester of BTech in Computer Science Engineering at IIIT Guwahati.
 - I have recently worked on iOS development using Swift and Storyboard.
 - I am currently learning RUST and Flutter.
