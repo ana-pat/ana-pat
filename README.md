@@ -19,7 +19,10 @@
 </div>    
 <!--     
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ana-pat&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/ana-pat&hide_border=true)
+
+
      -->
+     <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
   <div align="center">
     <h2>Statistics</h2>
