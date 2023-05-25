@@ -22,7 +22,9 @@
 
 
      -->
-     <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!--    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
+   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="ananya-pathak-165765191" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ananya-pathak-165765191?trk=profile-badge">Ananya Pathak</a></div>
+              
 
   <div align="center">
     <h2>Statistics</h2>
