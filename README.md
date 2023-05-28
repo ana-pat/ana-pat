@@ -10,7 +10,13 @@
     <a href="https://www.linkedin.com/in/ananya-pathak-165765191/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height=25/>&nbsp;
     </a>
-    
+    <a href="https://www.instagram.com/meals.n.deals/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" height=25/>&nbsp;
+    </a>
+    <a href="https://www.twitter.com/AnanyaPath28941/">
+        <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" height=25/>&nbsp;
+<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Twitter_logo.svg/1024px-Twitter_logo.svg.png" height=25/>&nbsp; -->
+    </a>
 <!-- 
 [![Github](https://img.shields.io/badge/-ana-pat-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/ana-pat)
    -->
