@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ananya Pathak</h1>
 
-- I am in my final semester of BTech in Computer Science Engineering at IIIT Guwahati.
-- I have recently worked on iOS development using Swift and Storyboard.
-- I am currently learning RUST and Flutter.
-- I am looking to collaborate on iOS, RUST and Flutter development projects.
+- I have completed my BTech in Computer Science Engineering at IIIT Guwahati.
+- I have experience in iOS development using Swift and Storyboard.
+- I am currently working on Flutter.
+- I am looking to collaborate on Flutter development projects.
 - 📫 How to reach me: <a href="mailto:ananyasomu@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=25/>&nbsp;
     </a>
@@ -19,14 +19,9 @@
 </div>    
 <!--     
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=ana-pat&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/ana-pat&hide_border=true)
-
-
      -->
-<!--    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
-   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="ananya-pathak-165765191" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ananya-pathak-165765191?trk=profile-badge">Ananya Pathak</a></div>
-              
 
-  <div align="center">
+<div align="center">
     <h2>Statistics</h2>
     <a href="https://github.com/ana-pat">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ana-pat&show_icons=true&theme=react&line_height=27" alt="Ananya's Github Stats"/>
@@ -35,8 +30,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-pat&theme=react&hide_langs_below=1&exclude_repo=CS306-Machine-Learning" />
      </a>
      <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=ana-pat&theme=react&hide_border=true" />
-
-   
+</div> 
 <!---
 ana-pat/ana-pat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
