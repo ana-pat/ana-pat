@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/ananya-pathak-165765191/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height=25/>&nbsp;
     </a>
-    <a href="https://www.instagram.com/meals.n.deals/">
+    <a href="https://www.instagram.com/drafted.moments/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" height=25/>&nbsp;
     </a>
     <a href="https://www.twitter.com/AnanyaPath28941/">
